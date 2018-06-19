@@ -12,3 +12,10 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+.idea
+contimer.iml
